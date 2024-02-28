@@ -2,6 +2,8 @@ function summation2(n) {
     return (n * (n + 1)) / 2;
 }
 
-// n = 300_000_000; // 300 ร้อยล้าน
-n = 900000
+n = 300000000; // 300 ร้อยล้าน
 console.log(summation2(n))
+// console.time() 
+
+// console.timeEnd()
