@@ -3,5 +3,5 @@ function summation2(n) {
 }
 
 // n = 300_000_000; // 300 ร้อยล้าน
-n=5
+n = 900000
 console.log(summation2(n))
